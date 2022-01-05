@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 58 50" x="0px" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="64.934868" version="1.1" gorn="0" xml:space="preserve" y="0px" height="50.401134"  viewBox="0 0 64.934868 50.401134" id="Layer_1">
+    <desc >
+        <referenceFile >MH-Z19_CO2_Schema.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata31">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs29"/>
+    <g gorn="0.3"  id="g7474">
+        <g gorn="0.3.0"  id="g7546">
+            <text x="9.0337944" gorn="0.3.0.0" y="37.149498"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text2">RX</text>
+            <text x="9.032794" gorn="0.3.0.1" y="30.079201"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text4">TX</text>
+            <text x="25.083807" gorn="0.3.0.2" y="41.452198"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text6">GND</text>
+            <text x="25.665808" gorn="0.3.0.3" y="11.0001"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text8">Vin</text>
+            <rect x="7.2723064" width="50.398998" fill="none" stroke="#231f20" gorn="0.3.0.4" y="7.2011003" height="35.714001"  stroke-miterlimit="10" style="stroke-miterlimit:10" id="rect10" stroke-width="0.69999999"/>
+            <line y1="7.2711" fill="none" x1="28.856308" stroke="#555555" gorn="0.3.0.5"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector6pin" stroke-width="1" x2="28.872307" y2="0.0011003303"/>
+            <line y1="28.801102" fill="none" x1="0.072306626" stroke="#555555" gorn="0.3.0.6"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector3pin" stroke-width="1" x2="7.3433065" y2="28.816101"/>
+            <line y1="35.982098" fill="none" x1="0.0013066251" stroke="#555555" gorn="0.3.0.7"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector2pin" stroke-width="1" x2="7.2723064" y2="36.001099"/>
+            <text x="18.884613" gorn="0.3.0.8" y="21.143024"  font-size="4.25" style="font-size:4.25px;font-family:DroidSans" id="text18">MH-Z19</text>
+            <text x="18.884613" gorn="0.3.0.9" y="26.242624"  font-size="4.25" style="font-size:4.25px;font-family:DroidSans" id="text20">CO2 sensor </text>
+            <text x="18.884613" gorn="0.3.0.10" y="31.343224"  font-size="4.25" style="font-size:4.25px;font-family:DroidSans" id="text22">Vin: 3.6 - 5.5V </text>
+            <line y1="50.400101" fill="none" x1="28.873306" stroke="#555555" gorn="0.3.0.11"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector7pin" stroke-width="1" x2="28.888308" y2="43.1311"/>
+            <line y1="28.801102" fill="none" x1="57.662838" stroke="#555555" gorn="0.3.0.12"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector4pin" stroke-width="1" x2="64.933838" y2="28.816101"/>
+            <line y1="35.982098" fill="none" x1="57.591839" stroke="#555555" gorn="0.3.0.13"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector1pin" stroke-width="1" x2="64.862839" y2="36.001099"/>
+            <text x="52.701653" gorn="0.3.0.14" y="37.149498"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text7397">Vo</text>
+            <text x="52.194695" gorn="0.3.0.15" y="30.079201"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text7399">SR</text>
+            <line y1="14.387259" fill="none" x1="57.662838" stroke="#555555" gorn="0.3.0.16"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector9pin" stroke-width="1" x2="64.933838" y2="14.402259"/>
+            <line y1="21.56826" fill="none" x1="57.591839" stroke="#555555" gorn="0.3.0.17"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector8pin" stroke-width="1" x2="64.862839" y2="21.587261"/>
+            <text x="50.08326" gorn="0.3.0.18" y="22.735661"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text7405">AOT</text>
+            <text x="48.588219" gorn="0.3.0.19" y="15.665359"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text7407">PWM</text>
+            <text x="9.032794" gorn="0.3.0.20" y="22.885803"  font-size="3.5" style="font-size:3.5px;font-family:DroidSans;fill:#231f20" id="text7518">Hd</text>
+            <line y1="21.607704" fill="none" x1="0.072306626" stroke="#555555" gorn="0.3.0.21"  stroke-opacity="1" stroke-miterlimit="10" style="stroke-miterlimit:10;" id="connector5pin" stroke-width="1" x2="7.3433065" y2="21.622704"/>
+        </g>
+    </g>
+</svg>
